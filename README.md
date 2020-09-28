@@ -5,6 +5,7 @@
 This is a Budgest Tracker app that was created to help track expenses and manage your budget. This is a progressive web application with offline functionality. 
 
 ## Deployed/Heroku URL
+https://cryptic-mesa-95665.herokuapp.com/
 
 ## Github Repo URL
 https://github.com/asaldana1108/budget-tracker-pwa
@@ -28,7 +29,6 @@ If downloading the codebasd, run the following command after cloning the databas
 ## License
 MIT
 ---
-
 
 ## Questions
 For any additional questions, here is my contact information. 
